@@ -2,11 +2,11 @@
   "name": "mesto",
   "description": "My project in RTU MIREA.",
   "version": "1.0.0",
-  "author": " <nikitafon2005@gmail.com>",
+  "author": " <frogytina@@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Relax1205/Sixth_project.Server.git"
+    "url": "git+https://github.com/krivobok/fronts.git"
   },
   "homepage": "https://github.com/AstreyaJulia/mesto#readme",
   "scripts": {
